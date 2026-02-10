@@ -37,9 +37,3 @@ public class Main {
         entrada.close(); // Cerrar el Scanner
     }
 }
-
-// ESE COMENTARIO LO REALIZA ESTUDIANTE1
-
-
-
-// ESTE ES EL SEGUNDO COMENTARIO DE ESTUDIANTE1
