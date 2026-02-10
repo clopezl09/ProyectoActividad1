@@ -37,3 +37,5 @@ public class Main {
         entrada.close(); // Cerrar el Scanner
     }
 }
+
+// Cambios realizados desde Estudiante1
